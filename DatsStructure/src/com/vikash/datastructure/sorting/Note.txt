@@ -1,0 +1,2 @@
+Sorting : Sorting is a basic operation in compute science.
+Sorting refers to the operation of arranging data in some given sequence - either increasing order or decreasing order.

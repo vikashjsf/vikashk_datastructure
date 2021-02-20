@@ -6,7 +6,7 @@ import java.util.Comparator;
 
 public class TSortStringBasedOnLength {
 	public static void main(String[] args) {
-		String[] words = {"abc", "xy", "aaaa","d","a","am","ami","amit","kumar"};
+		String[] words = {"abc", "xy", "aaaa","d","a","am","ami","vikash","kumar"};
 		System.out.println("Given Arrays : "+Arrays.toString(words));
 		Arrays.sort(words, new SortStringBasedOnLength());
 		System.out.println("Result Arrays :"+Arrays.toString(words));

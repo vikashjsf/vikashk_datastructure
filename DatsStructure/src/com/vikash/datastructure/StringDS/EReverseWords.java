@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class EReverseWords {
 
 	public static void main(String[] args) {
-		char[] str = "amit kumar".toCharArray();
+		char[] str = "Vikash kumar".toCharArray();
 		getReverse(str);
 		System.out.println("After "+Arrays.toString(str));
 	}

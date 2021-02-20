@@ -5,8 +5,8 @@ import java.util.HashMap;
 
 public class KCountOccurenceOfaGivenCharacter {
 	public static void main(String[] args) {
-		System.out.println(returnNoOfOccurenceOfCharacter("mitkummmmm", 'm'));
-		System.out.println(anotherApproach("amit", 'm'));
+		System.out.println(returnNoOfOccurenceOfCharacter("vikashKumar", 'm'));
+		System.out.println(anotherApproach("vikash", 'm'));
 	}
 	
 	public static int returnNoOfOccurenceOfCharacter(String str, char ch) {

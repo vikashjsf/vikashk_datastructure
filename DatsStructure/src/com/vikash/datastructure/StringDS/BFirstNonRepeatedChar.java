@@ -13,9 +13,9 @@ import java.util.Set;
 
 public class BFirstNonRepeatedChar {
 	public static void main(String[] args) {
-		System.out.println(firstNonRepeatedChar1("amitkumar"));
+		System.out.println(firstNonRepeatedChar1("vikashkumar"));
 		System.out.println("**************22***************");
-		System.out.println(firstNonRepeatedChar2("amitkumar"));
+		System.out.println(firstNonRepeatedChar2("vikashkumar"));
 		System.out.println("************33*****************");
 		System.out.println(firstNonRepeatedChar3("hello"));
 	}
